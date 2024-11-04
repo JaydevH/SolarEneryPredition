@@ -1,0 +1,7037 @@
+[
+    {
+        "date": "2022-01-01",
+        "average_ghi": 84.08695652173913,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-02",
+        "average_ghi": 87.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-03",
+        "average_ghi": 47.708333333333336,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-04",
+        "average_ghi": 30.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-05",
+        "average_ghi": 22.041666666666668,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-06",
+        "average_ghi": 79.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-07",
+        "average_ghi": 27.791666666666668,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-08",
+        "average_ghi": 24.208333333333332,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-09",
+        "average_ghi": 77.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-10",
+        "average_ghi": 57.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-11",
+        "average_ghi": 108.91666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-12",
+        "average_ghi": 141.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-13",
+        "average_ghi": 83.91666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-14",
+        "average_ghi": 151.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-15",
+        "average_ghi": 134.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-16",
+        "average_ghi": 112.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-17",
+        "average_ghi": 40.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-18",
+        "average_ghi": 94.29166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-19",
+        "average_ghi": 36.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-20",
+        "average_ghi": 104.20833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-21",
+        "average_ghi": 100.70833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-22",
+        "average_ghi": 52.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-23",
+        "average_ghi": 60.833333333333336,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-24",
+        "average_ghi": 88.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-25",
+        "average_ghi": 108.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-26",
+        "average_ghi": 114.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-27",
+        "average_ghi": 173.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-28",
+        "average_ghi": 168.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-29",
+        "average_ghi": 164.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-30",
+        "average_ghi": 154.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-01-31",
+        "average_ghi": 125.29166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-01",
+        "average_ghi": 162.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-02",
+        "average_ghi": 89.83333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-03",
+        "average_ghi": 77.33333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-04",
+        "average_ghi": 167.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-05",
+        "average_ghi": 192.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-06",
+        "average_ghi": 74.58333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-07",
+        "average_ghi": 108.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-08",
+        "average_ghi": 150.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-09",
+        "average_ghi": 178.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-10",
+        "average_ghi": 189.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-11",
+        "average_ghi": 201.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-12",
+        "average_ghi": 201.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-13",
+        "average_ghi": 181.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-14",
+        "average_ghi": 90.04166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-15",
+        "average_ghi": 168.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-16",
+        "average_ghi": 190.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-17",
+        "average_ghi": 176.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-18",
+        "average_ghi": 136.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-19",
+        "average_ghi": 191.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-20",
+        "average_ghi": 217.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-21",
+        "average_ghi": 215.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-22",
+        "average_ghi": 70.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-23",
+        "average_ghi": 54.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-24",
+        "average_ghi": 94.70833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-25",
+        "average_ghi": 94.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-26",
+        "average_ghi": 123.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-27",
+        "average_ghi": 188.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-02-28",
+        "average_ghi": 131.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-01",
+        "average_ghi": 70.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-02",
+        "average_ghi": 147.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-03",
+        "average_ghi": 81.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-04",
+        "average_ghi": 169.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-05",
+        "average_ghi": 197.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-06",
+        "average_ghi": 154.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-07",
+        "average_ghi": 50.166666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-08",
+        "average_ghi": 174.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-09",
+        "average_ghi": 200.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-10",
+        "average_ghi": 211.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-11",
+        "average_ghi": 243.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-12",
+        "average_ghi": 167.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-13",
+        "average_ghi": 234.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-14",
+        "average_ghi": 229.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-15",
+        "average_ghi": 245.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-16",
+        "average_ghi": 255.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-17",
+        "average_ghi": 263.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-18",
+        "average_ghi": 245.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-19",
+        "average_ghi": 140.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-20",
+        "average_ghi": 133.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-21",
+        "average_ghi": 235.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-22",
+        "average_ghi": 261.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-23",
+        "average_ghi": 243.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-24",
+        "average_ghi": 222.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-25",
+        "average_ghi": 270.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-26",
+        "average_ghi": 277.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-27",
+        "average_ghi": 266.9166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-28",
+        "average_ghi": 248.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-29",
+        "average_ghi": 271.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-30",
+        "average_ghi": 267.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-03-31",
+        "average_ghi": 277.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-01",
+        "average_ghi": 289.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-02",
+        "average_ghi": 273.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-03",
+        "average_ghi": 255.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-04",
+        "average_ghi": 276.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-05",
+        "average_ghi": 280.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-06",
+        "average_ghi": 282.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-07",
+        "average_ghi": 293.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-08",
+        "average_ghi": 281.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-09",
+        "average_ghi": 195.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-10",
+        "average_ghi": 289.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-11",
+        "average_ghi": 284.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-12",
+        "average_ghi": 147.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-13",
+        "average_ghi": 150.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-14",
+        "average_ghi": 148.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-15",
+        "average_ghi": 244.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-16",
+        "average_ghi": 304.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-17",
+        "average_ghi": 269.6666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-18",
+        "average_ghi": 256.4583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-19",
+        "average_ghi": 113.58333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-20",
+        "average_ghi": 164.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-21",
+        "average_ghi": 43.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-22",
+        "average_ghi": 131.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-23",
+        "average_ghi": 194.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-24",
+        "average_ghi": 312.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-25",
+        "average_ghi": 186.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-26",
+        "average_ghi": 313.9166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-27",
+        "average_ghi": 317.2083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-28",
+        "average_ghi": 205.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-29",
+        "average_ghi": 215.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-04-30",
+        "average_ghi": 210.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-01",
+        "average_ghi": 320.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-02",
+        "average_ghi": 217.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-03",
+        "average_ghi": 126.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-04",
+        "average_ghi": 60.833333333333336,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-05",
+        "average_ghi": 257.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-06",
+        "average_ghi": 242.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-07",
+        "average_ghi": 328.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-08",
+        "average_ghi": 323.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-09",
+        "average_ghi": 285.6666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-10",
+        "average_ghi": 315.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-11",
+        "average_ghi": 315.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-12",
+        "average_ghi": 273.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-13",
+        "average_ghi": 329.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-14",
+        "average_ghi": 335.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-15",
+        "average_ghi": 189.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-16",
+        "average_ghi": 194.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-17",
+        "average_ghi": 230.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-18",
+        "average_ghi": 324.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-19",
+        "average_ghi": 240.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-20",
+        "average_ghi": 89.20833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-21",
+        "average_ghi": 234.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-22",
+        "average_ghi": 297.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-23",
+        "average_ghi": 184.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-24",
+        "average_ghi": 290.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-25",
+        "average_ghi": 336.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-26",
+        "average_ghi": 312.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-27",
+        "average_ghi": 317.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-28",
+        "average_ghi": 197.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-29",
+        "average_ghi": 246.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-30",
+        "average_ghi": 253.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-05-31",
+        "average_ghi": 236.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-01",
+        "average_ghi": 264.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-02",
+        "average_ghi": 311.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-03",
+        "average_ghi": 314.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-04",
+        "average_ghi": 342.9166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-05",
+        "average_ghi": 341.2083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-06",
+        "average_ghi": 335.6666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-07",
+        "average_ghi": 305.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-08",
+        "average_ghi": 291.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-09",
+        "average_ghi": 292.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-10",
+        "average_ghi": 318.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-11",
+        "average_ghi": 293.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-12",
+        "average_ghi": 227.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-13",
+        "average_ghi": 324.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-14",
+        "average_ghi": 344.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-15",
+        "average_ghi": 339.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-16",
+        "average_ghi": 237.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-17",
+        "average_ghi": 211.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-18",
+        "average_ghi": 63.416666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-19",
+        "average_ghi": 96.70833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-20",
+        "average_ghi": 144.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-21",
+        "average_ghi": 56.666666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-22",
+        "average_ghi": 104.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-23",
+        "average_ghi": 247.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-24",
+        "average_ghi": 361.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-25",
+        "average_ghi": 358.4166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-26",
+        "average_ghi": 332.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-27",
+        "average_ghi": 332.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-28",
+        "average_ghi": 335.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-29",
+        "average_ghi": 326.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-06-30",
+        "average_ghi": 311.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-01",
+        "average_ghi": 283.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-02",
+        "average_ghi": 303.2083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-03",
+        "average_ghi": 301.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-04",
+        "average_ghi": 290.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-05",
+        "average_ghi": 113.41666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-06",
+        "average_ghi": 157.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-07",
+        "average_ghi": 249.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-08",
+        "average_ghi": 246.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-09",
+        "average_ghi": 120.66666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-10",
+        "average_ghi": 183.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-11",
+        "average_ghi": 91.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-12",
+        "average_ghi": 174.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-13",
+        "average_ghi": 94.16666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-14",
+        "average_ghi": 74.33333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-15",
+        "average_ghi": 234.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-16",
+        "average_ghi": 102.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-17",
+        "average_ghi": 260.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-18",
+        "average_ghi": 332.2083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-19",
+        "average_ghi": 319.6666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-20",
+        "average_ghi": 257.4166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-21",
+        "average_ghi": 122.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-22",
+        "average_ghi": 225.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-23",
+        "average_ghi": 142.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-24",
+        "average_ghi": 266.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-25",
+        "average_ghi": 146.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-26",
+        "average_ghi": 279.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-27",
+        "average_ghi": 193.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-28",
+        "average_ghi": 105.95833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-29",
+        "average_ghi": 103.20833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-30",
+        "average_ghi": 226.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-07-31",
+        "average_ghi": 297.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-01",
+        "average_ghi": 109.95833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-02",
+        "average_ghi": 291.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-03",
+        "average_ghi": 235.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-04",
+        "average_ghi": 267.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-05",
+        "average_ghi": 210.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-06",
+        "average_ghi": 156.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-07",
+        "average_ghi": 301.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-08",
+        "average_ghi": 220.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-09",
+        "average_ghi": 262.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-10",
+        "average_ghi": 299.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-11",
+        "average_ghi": 43.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-12",
+        "average_ghi": 175.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-13",
+        "average_ghi": 305.4166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-14",
+        "average_ghi": 302.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-15",
+        "average_ghi": 86.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-16",
+        "average_ghi": 166.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-17",
+        "average_ghi": 132.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-18",
+        "average_ghi": 253.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-19",
+        "average_ghi": 306.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-20",
+        "average_ghi": 245.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-21",
+        "average_ghi": 263.4583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-22",
+        "average_ghi": 207.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-23",
+        "average_ghi": 174.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-24",
+        "average_ghi": 120.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-25",
+        "average_ghi": 66.41666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-26",
+        "average_ghi": 100.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-27",
+        "average_ghi": 226.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-28",
+        "average_ghi": 213.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-29",
+        "average_ghi": 217.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-30",
+        "average_ghi": 270.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-08-31",
+        "average_ghi": 289.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-01",
+        "average_ghi": 286.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-02",
+        "average_ghi": 279.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-03",
+        "average_ghi": 282.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-04",
+        "average_ghi": 229.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-05",
+        "average_ghi": 96.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-06",
+        "average_ghi": 265.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-07",
+        "average_ghi": 276.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-08",
+        "average_ghi": 275.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-09",
+        "average_ghi": 264.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-10",
+        "average_ghi": 244.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-11",
+        "average_ghi": 102.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-12",
+        "average_ghi": 228.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-13",
+        "average_ghi": 271.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-14",
+        "average_ghi": 270.4583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-15",
+        "average_ghi": 275.4583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-16",
+        "average_ghi": 252.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-17",
+        "average_ghi": 158.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-18",
+        "average_ghi": 273.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-19",
+        "average_ghi": 272.2083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-20",
+        "average_ghi": 228.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-21",
+        "average_ghi": 234.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-22",
+        "average_ghi": 258.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-23",
+        "average_ghi": 248.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-24",
+        "average_ghi": 177.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-25",
+        "average_ghi": 77.16666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-26",
+        "average_ghi": 235.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-27",
+        "average_ghi": 248.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-28",
+        "average_ghi": 238.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-29",
+        "average_ghi": 240.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-09-30",
+        "average_ghi": 245.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-01",
+        "average_ghi": 209.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-02",
+        "average_ghi": 234.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-03",
+        "average_ghi": 238.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-04",
+        "average_ghi": 245.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-05",
+        "average_ghi": 244.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-06",
+        "average_ghi": 221.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-07",
+        "average_ghi": 238.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-08",
+        "average_ghi": 236.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-09",
+        "average_ghi": 234.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-10",
+        "average_ghi": 180.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-11",
+        "average_ghi": 199.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-12",
+        "average_ghi": 182.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-13",
+        "average_ghi": 215.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-14",
+        "average_ghi": 226.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-15",
+        "average_ghi": 229.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-16",
+        "average_ghi": 228.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-17",
+        "average_ghi": 205.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-18",
+        "average_ghi": 153.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-19",
+        "average_ghi": 170.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-20",
+        "average_ghi": 34.916666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-21",
+        "average_ghi": 163.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-22",
+        "average_ghi": 214.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-23",
+        "average_ghi": 212.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-24",
+        "average_ghi": 208.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-25",
+        "average_ghi": 201.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-26",
+        "average_ghi": 198.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-27",
+        "average_ghi": 196.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-28",
+        "average_ghi": 202.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-29",
+        "average_ghi": 201.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-30",
+        "average_ghi": 195.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-10-31",
+        "average_ghi": 113.04166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-01",
+        "average_ghi": 96.29166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-02",
+        "average_ghi": 160.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-03",
+        "average_ghi": 164.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-04",
+        "average_ghi": 161.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-05",
+        "average_ghi": 55.208333333333336,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-06",
+        "average_ghi": 71.29166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-07",
+        "average_ghi": 25.333333333333332,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-08",
+        "average_ghi": 112.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-09",
+        "average_ghi": 35.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-10",
+        "average_ghi": 99.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-11",
+        "average_ghi": 172.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-12",
+        "average_ghi": 172.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-13",
+        "average_ghi": 136.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-14",
+        "average_ghi": 56.416666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-15",
+        "average_ghi": 138.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-16",
+        "average_ghi": 142.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-17",
+        "average_ghi": 172.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-18",
+        "average_ghi": 158.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-19",
+        "average_ghi": 60.208333333333336,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-20",
+        "average_ghi": 109.20833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-21",
+        "average_ghi": 165.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-22",
+        "average_ghi": 170.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-23",
+        "average_ghi": 168.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-24",
+        "average_ghi": 166.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-25",
+        "average_ghi": 163.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-26",
+        "average_ghi": 159.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-27",
+        "average_ghi": 156.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-28",
+        "average_ghi": 158.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-29",
+        "average_ghi": 157.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-11-30",
+        "average_ghi": 157.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-01",
+        "average_ghi": 153.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-02",
+        "average_ghi": 130.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-03",
+        "average_ghi": 142.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-04",
+        "average_ghi": 152.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-05",
+        "average_ghi": 149.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-06",
+        "average_ghi": 135.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-07",
+        "average_ghi": 149.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-08",
+        "average_ghi": 87.91666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-09",
+        "average_ghi": 84.04166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-10",
+        "average_ghi": 56.791666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-11",
+        "average_ghi": 95.33333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-12",
+        "average_ghi": 141.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-13",
+        "average_ghi": 142.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-14",
+        "average_ghi": 143.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-15",
+        "average_ghi": 147.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-16",
+        "average_ghi": 141.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-17",
+        "average_ghi": 144.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-18",
+        "average_ghi": 144.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-19",
+        "average_ghi": 144.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-20",
+        "average_ghi": 142.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-21",
+        "average_ghi": 144.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-22",
+        "average_ghi": 146.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-23",
+        "average_ghi": 109.41666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-24",
+        "average_ghi": 138.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-25",
+        "average_ghi": 116.79166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-26",
+        "average_ghi": 110.79166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-27",
+        "average_ghi": 140.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-28",
+        "average_ghi": 145.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-29",
+        "average_ghi": 43.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-30",
+        "average_ghi": 85.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2022-12-31",
+        "average_ghi": 108.79166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-01",
+        "average_ghi": 127.33333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-02",
+        "average_ghi": 149.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-03",
+        "average_ghi": 147.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-04",
+        "average_ghi": 156.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-05",
+        "average_ghi": 159.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-06",
+        "average_ghi": 87.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-07",
+        "average_ghi": 79.83333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-08",
+        "average_ghi": 46.916666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-09",
+        "average_ghi": 82.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-10",
+        "average_ghi": 95.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-11",
+        "average_ghi": 25.333333333333332,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-12",
+        "average_ghi": 88.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-13",
+        "average_ghi": 62.458333333333336,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-14",
+        "average_ghi": 107.33333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-15",
+        "average_ghi": 143.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-16",
+        "average_ghi": 147.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-17",
+        "average_ghi": 157.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-18",
+        "average_ghi": 146.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-19",
+        "average_ghi": 116.41666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-20",
+        "average_ghi": 79.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-21",
+        "average_ghi": 74.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-22",
+        "average_ghi": 109.29166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-23",
+        "average_ghi": 109.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-24",
+        "average_ghi": 81.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-25",
+        "average_ghi": 53.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-26",
+        "average_ghi": 122.66666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-27",
+        "average_ghi": 138.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-28",
+        "average_ghi": 63.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-29",
+        "average_ghi": 90.54166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-30",
+        "average_ghi": 36.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-01-31",
+        "average_ghi": 135.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-01",
+        "average_ghi": 127.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-02",
+        "average_ghi": 104.91666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-03",
+        "average_ghi": 101.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-04",
+        "average_ghi": 177.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-05",
+        "average_ghi": 132.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-06",
+        "average_ghi": 97.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-07",
+        "average_ghi": 170.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-08",
+        "average_ghi": 135.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-09",
+        "average_ghi": 38.791666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-10",
+        "average_ghi": 111.83333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-11",
+        "average_ghi": 109.83333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-12",
+        "average_ghi": 193.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-13",
+        "average_ghi": 195.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-14",
+        "average_ghi": 193.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-15",
+        "average_ghi": 187.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-16",
+        "average_ghi": 140.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-17",
+        "average_ghi": 181.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-18",
+        "average_ghi": 136.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-19",
+        "average_ghi": 92.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-20",
+        "average_ghi": 127.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-21",
+        "average_ghi": 150.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-22",
+        "average_ghi": 175.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-23",
+        "average_ghi": 222.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-24",
+        "average_ghi": 222.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-25",
+        "average_ghi": 221.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-26",
+        "average_ghi": 91.79166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-27",
+        "average_ghi": 204.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-02-28",
+        "average_ghi": 97.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-01",
+        "average_ghi": 112.54166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-02",
+        "average_ghi": 71.58333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-03",
+        "average_ghi": 158.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-04",
+        "average_ghi": 133.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-05",
+        "average_ghi": 194.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-06",
+        "average_ghi": 236.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-07",
+        "average_ghi": 235.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-08",
+        "average_ghi": 250.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-09",
+        "average_ghi": 255.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-10",
+        "average_ghi": 238.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-11",
+        "average_ghi": 253.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-12",
+        "average_ghi": 203.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-13",
+        "average_ghi": 225.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-14",
+        "average_ghi": 253.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-15",
+        "average_ghi": 239.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-16",
+        "average_ghi": 113.29166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-17",
+        "average_ghi": 87.54166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-18",
+        "average_ghi": 109.04166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-19",
+        "average_ghi": 124.16666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-20",
+        "average_ghi": 174.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-21",
+        "average_ghi": 130.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-22",
+        "average_ghi": 225.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-23",
+        "average_ghi": 155.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-24",
+        "average_ghi": 109.20833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-25",
+        "average_ghi": 123.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-26",
+        "average_ghi": 227.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-27",
+        "average_ghi": 254.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-28",
+        "average_ghi": 235.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-29",
+        "average_ghi": 224.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-30",
+        "average_ghi": 182.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-03-31",
+        "average_ghi": 118.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-01",
+        "average_ghi": 63.708333333333336,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-02",
+        "average_ghi": 229.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-03",
+        "average_ghi": 88.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-04",
+        "average_ghi": 135.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-05",
+        "average_ghi": 277.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-06",
+        "average_ghi": 242.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-07",
+        "average_ghi": 301.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-08",
+        "average_ghi": 308.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-09",
+        "average_ghi": 302.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-10",
+        "average_ghi": 297.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-11",
+        "average_ghi": 269.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-12",
+        "average_ghi": 289.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-13",
+        "average_ghi": 299.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-14",
+        "average_ghi": 308.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-15",
+        "average_ghi": 250.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-16",
+        "average_ghi": 103.54166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-17",
+        "average_ghi": 157.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-18",
+        "average_ghi": 55.833333333333336,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-19",
+        "average_ghi": 36.166666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-20",
+        "average_ghi": 141.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-21",
+        "average_ghi": 164.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-22",
+        "average_ghi": 216.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-23",
+        "average_ghi": 330.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-24",
+        "average_ghi": 330.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-25",
+        "average_ghi": 228.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-26",
+        "average_ghi": 169.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-27",
+        "average_ghi": 180.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-28",
+        "average_ghi": 129.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-29",
+        "average_ghi": 219.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-04-30",
+        "average_ghi": 237.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-01",
+        "average_ghi": 195.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-02",
+        "average_ghi": 72.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-03",
+        "average_ghi": 180.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-04",
+        "average_ghi": 162.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-05",
+        "average_ghi": 311.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-06",
+        "average_ghi": 102.95833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-07",
+        "average_ghi": 254.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-08",
+        "average_ghi": 115.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-09",
+        "average_ghi": 264.9166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-10",
+        "average_ghi": 343.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-11",
+        "average_ghi": 339.4166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-12",
+        "average_ghi": 283.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-13",
+        "average_ghi": 168.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-14",
+        "average_ghi": 277.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-15",
+        "average_ghi": 334.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-16",
+        "average_ghi": 258.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-17",
+        "average_ghi": 288.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-18",
+        "average_ghi": 159.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-19",
+        "average_ghi": 294.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-20",
+        "average_ghi": 352.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-21",
+        "average_ghi": 350.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-22",
+        "average_ghi": 321.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-23",
+        "average_ghi": 161.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-24",
+        "average_ghi": 55.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-25",
+        "average_ghi": 186.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-26",
+        "average_ghi": 145.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-27",
+        "average_ghi": 281.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-28",
+        "average_ghi": 326.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-29",
+        "average_ghi": 171.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-30",
+        "average_ghi": 84.95833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-05-31",
+        "average_ghi": 63.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-01",
+        "average_ghi": 88.91666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-02",
+        "average_ghi": 257.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-03",
+        "average_ghi": 315.9166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-04",
+        "average_ghi": 338.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-05",
+        "average_ghi": 236.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-06",
+        "average_ghi": 312.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-07",
+        "average_ghi": 225.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-08",
+        "average_ghi": 333.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-09",
+        "average_ghi": 332.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-10",
+        "average_ghi": 281.4166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-11",
+        "average_ghi": 263.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-12",
+        "average_ghi": 283.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-13",
+        "average_ghi": 308.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-14",
+        "average_ghi": 277.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-15",
+        "average_ghi": 307.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-16",
+        "average_ghi": 343.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-17",
+        "average_ghi": 340.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-18",
+        "average_ghi": 343.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-19",
+        "average_ghi": 347.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-20",
+        "average_ghi": 348.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-21",
+        "average_ghi": 338.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-22",
+        "average_ghi": 340.4583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-23",
+        "average_ghi": 323.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-24",
+        "average_ghi": 290.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-25",
+        "average_ghi": 304.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-26",
+        "average_ghi": 195.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-27",
+        "average_ghi": 313.4583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-28",
+        "average_ghi": 248.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-29",
+        "average_ghi": 298.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-06-30",
+        "average_ghi": 207.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-01",
+        "average_ghi": 345.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-02",
+        "average_ghi": 343.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-03",
+        "average_ghi": 289.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-04",
+        "average_ghi": 274.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-05",
+        "average_ghi": 191.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-06",
+        "average_ghi": 181.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-07",
+        "average_ghi": 101.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-08",
+        "average_ghi": 71.79166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-09",
+        "average_ghi": 261.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-10",
+        "average_ghi": 304.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-11",
+        "average_ghi": 348.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-12",
+        "average_ghi": 297.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-13",
+        "average_ghi": 338.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-14",
+        "average_ghi": 257.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-15",
+        "average_ghi": 293.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-16",
+        "average_ghi": 66.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-17",
+        "average_ghi": 265.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-18",
+        "average_ghi": 303.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-19",
+        "average_ghi": 65.16666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-20",
+        "average_ghi": 196.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-21",
+        "average_ghi": 143.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-22",
+        "average_ghi": 81.41666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-23",
+        "average_ghi": 121.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-24",
+        "average_ghi": 279.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-25",
+        "average_ghi": 280.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-26",
+        "average_ghi": 323.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-27",
+        "average_ghi": 294.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-28",
+        "average_ghi": 99.95833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-29",
+        "average_ghi": 204.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-30",
+        "average_ghi": 270.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-07-31",
+        "average_ghi": 256.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-01",
+        "average_ghi": 317.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-02",
+        "average_ghi": 307.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-03",
+        "average_ghi": 301.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-04",
+        "average_ghi": 258.6666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-05",
+        "average_ghi": 226.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-06",
+        "average_ghi": 298.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-07",
+        "average_ghi": 196.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-08",
+        "average_ghi": 314.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-09",
+        "average_ghi": 316.6666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-10",
+        "average_ghi": 267.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-11",
+        "average_ghi": 301.2083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-12",
+        "average_ghi": 304.4583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-13",
+        "average_ghi": 297.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-14",
+        "average_ghi": 223.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-15",
+        "average_ghi": 286.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-16",
+        "average_ghi": 287.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-17",
+        "average_ghi": 254.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-18",
+        "average_ghi": 303.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-19",
+        "average_ghi": 274.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-20",
+        "average_ghi": 303.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-21",
+        "average_ghi": 294.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-22",
+        "average_ghi": 293.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-23",
+        "average_ghi": 278.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-24",
+        "average_ghi": 144.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-25",
+        "average_ghi": 189.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-26",
+        "average_ghi": 72.16666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-27",
+        "average_ghi": 263.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-28",
+        "average_ghi": 276.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-29",
+        "average_ghi": 293.2083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-30",
+        "average_ghi": 304.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-08-31",
+        "average_ghi": 293.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-01",
+        "average_ghi": 281.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-02",
+        "average_ghi": 270.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-03",
+        "average_ghi": 277.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-04",
+        "average_ghi": 284.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-05",
+        "average_ghi": 265.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-06",
+        "average_ghi": 282.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-07",
+        "average_ghi": 282.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-08",
+        "average_ghi": 274.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-09",
+        "average_ghi": 264.6666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-10",
+        "average_ghi": 271.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-11",
+        "average_ghi": 270.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-12",
+        "average_ghi": 260.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-13",
+        "average_ghi": 254.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-14",
+        "average_ghi": 241.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-15",
+        "average_ghi": 229.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-16",
+        "average_ghi": 201.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-17",
+        "average_ghi": 138.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-18",
+        "average_ghi": 202.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-19",
+        "average_ghi": 260.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-20",
+        "average_ghi": 259.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-21",
+        "average_ghi": 212.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-22",
+        "average_ghi": 122.33333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-23",
+        "average_ghi": 221.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-24",
+        "average_ghi": 183.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-25",
+        "average_ghi": 112.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-26",
+        "average_ghi": 240.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-27",
+        "average_ghi": 253.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-28",
+        "average_ghi": 231.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-29",
+        "average_ghi": 238.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-09-30",
+        "average_ghi": 250.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-01",
+        "average_ghi": 247.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-02",
+        "average_ghi": 202.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-03",
+        "average_ghi": 235.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-04",
+        "average_ghi": 244.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-05",
+        "average_ghi": 245.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-06",
+        "average_ghi": 240.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-07",
+        "average_ghi": 215.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-08",
+        "average_ghi": 221.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-09",
+        "average_ghi": 165.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-10",
+        "average_ghi": 161.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-11",
+        "average_ghi": 233.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-12",
+        "average_ghi": 236.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-13",
+        "average_ghi": 222.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-14",
+        "average_ghi": 63.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-15",
+        "average_ghi": 173.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-16",
+        "average_ghi": 39.166666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-17",
+        "average_ghi": 51.291666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-18",
+        "average_ghi": 160.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-19",
+        "average_ghi": 199.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-20",
+        "average_ghi": 213.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-21",
+        "average_ghi": 211.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-22",
+        "average_ghi": 123.70833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-23",
+        "average_ghi": 207.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-24",
+        "average_ghi": 173.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-25",
+        "average_ghi": 205.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-26",
+        "average_ghi": 208.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-27",
+        "average_ghi": 197.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-28",
+        "average_ghi": 198.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-29",
+        "average_ghi": 196.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-30",
+        "average_ghi": 189.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-10-31",
+        "average_ghi": 187.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-01",
+        "average_ghi": 166.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-02",
+        "average_ghi": 114.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-03",
+        "average_ghi": 180.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-04",
+        "average_ghi": 190.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-05",
+        "average_ghi": 189.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-06",
+        "average_ghi": 155.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-07",
+        "average_ghi": 138.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-08",
+        "average_ghi": 159.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-09",
+        "average_ghi": 119.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-10",
+        "average_ghi": 40.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-11",
+        "average_ghi": 126.58333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-12",
+        "average_ghi": 130.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-13",
+        "average_ghi": 162.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-14",
+        "average_ghi": 167.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-15",
+        "average_ghi": 170.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-16",
+        "average_ghi": 145.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-17",
+        "average_ghi": 171.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-18",
+        "average_ghi": 128.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-19",
+        "average_ghi": 137.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-20",
+        "average_ghi": 154.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-21",
+        "average_ghi": 161.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-22",
+        "average_ghi": 164.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-23",
+        "average_ghi": 158.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-24",
+        "average_ghi": 159.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-25",
+        "average_ghi": 153.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-26",
+        "average_ghi": 104.29166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-27",
+        "average_ghi": 76.20833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-28",
+        "average_ghi": 139.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-29",
+        "average_ghi": 101.58333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-11-30",
+        "average_ghi": 33.166666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-01",
+        "average_ghi": 72.04166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-02",
+        "average_ghi": 109.91666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-03",
+        "average_ghi": 110.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-04",
+        "average_ghi": 149.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-05",
+        "average_ghi": 157.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-06",
+        "average_ghi": 156.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-07",
+        "average_ghi": 154.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-08",
+        "average_ghi": 140.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-09",
+        "average_ghi": 148.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-10",
+        "average_ghi": 148.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-11",
+        "average_ghi": 133.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-12",
+        "average_ghi": 134.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-13",
+        "average_ghi": 141.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-14",
+        "average_ghi": 128.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-15",
+        "average_ghi": 143.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-16",
+        "average_ghi": 98.95833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-17",
+        "average_ghi": 96.91666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-18",
+        "average_ghi": 137.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-19",
+        "average_ghi": 145.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-20",
+        "average_ghi": 138.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-21",
+        "average_ghi": 146.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-22",
+        "average_ghi": 101.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-23",
+        "average_ghi": 65.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-24",
+        "average_ghi": 76.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-25",
+        "average_ghi": 119.41666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-26",
+        "average_ghi": 126.29166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-27",
+        "average_ghi": 124.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-28",
+        "average_ghi": 126.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-29",
+        "average_ghi": 122.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-30",
+        "average_ghi": 76.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2023-12-31",
+        "average_ghi": 142.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-01",
+        "average_ghi": 141.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-02",
+        "average_ghi": 146.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-03",
+        "average_ghi": 126.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-04",
+        "average_ghi": 140.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-05",
+        "average_ghi": 128.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-06",
+        "average_ghi": 145.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-07",
+        "average_ghi": 149.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-08",
+        "average_ghi": 147.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-09",
+        "average_ghi": 140.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-10",
+        "average_ghi": 149.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-11",
+        "average_ghi": 153.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-12",
+        "average_ghi": 123.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-13",
+        "average_ghi": 149.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-14",
+        "average_ghi": 155.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-15",
+        "average_ghi": 154.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-16",
+        "average_ghi": 131.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-17",
+        "average_ghi": 143.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-18",
+        "average_ghi": 147.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-19",
+        "average_ghi": 150.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-20",
+        "average_ghi": 139.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-21",
+        "average_ghi": 165.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-22",
+        "average_ghi": 157.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-23",
+        "average_ghi": 154.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-24",
+        "average_ghi": 155.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-25",
+        "average_ghi": 127.91666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-26",
+        "average_ghi": 97.41666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-27",
+        "average_ghi": 162.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-28",
+        "average_ghi": 71.20833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-29",
+        "average_ghi": 98.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-30",
+        "average_ghi": 84.20833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-01-31",
+        "average_ghi": 109.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-01",
+        "average_ghi": 90.91666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-02",
+        "average_ghi": 158.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-03",
+        "average_ghi": 58.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-04",
+        "average_ghi": 77.33333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-05",
+        "average_ghi": 164.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-06",
+        "average_ghi": 177.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-07",
+        "average_ghi": 186.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-08",
+        "average_ghi": 203.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-09",
+        "average_ghi": 203.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-10",
+        "average_ghi": 204.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-11",
+        "average_ghi": 206.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-12",
+        "average_ghi": 151.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-13",
+        "average_ghi": 200.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-14",
+        "average_ghi": 207.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-15",
+        "average_ghi": 208.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-16",
+        "average_ghi": 204.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-17",
+        "average_ghi": 94.29166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-18",
+        "average_ghi": 32.166666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-19",
+        "average_ghi": 24.708333333333332,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-20",
+        "average_ghi": 68.41666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-21",
+        "average_ghi": 122.33333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-22",
+        "average_ghi": 207.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-23",
+        "average_ghi": 213.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-24",
+        "average_ghi": 215.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-25",
+        "average_ghi": 199.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-26",
+        "average_ghi": 97.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-27",
+        "average_ghi": 135.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-28",
+        "average_ghi": 147.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-02-29",
+        "average_ghi": 103.70833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-01",
+        "average_ghi": 61.666666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-02",
+        "average_ghi": 31.958333333333332,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-03",
+        "average_ghi": 164.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-04",
+        "average_ghi": 228.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-05",
+        "average_ghi": 203.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-06",
+        "average_ghi": 162.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-07",
+        "average_ghi": 159.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-08",
+        "average_ghi": 230.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-09",
+        "average_ghi": 247.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-10",
+        "average_ghi": 125.33333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-11",
+        "average_ghi": 137.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-12",
+        "average_ghi": 223.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-13",
+        "average_ghi": 67.16666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-14",
+        "average_ghi": 183.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-15",
+        "average_ghi": 248.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-16",
+        "average_ghi": 261.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-17",
+        "average_ghi": 232.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-18",
+        "average_ghi": 237.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-19",
+        "average_ghi": 269.4166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-20",
+        "average_ghi": 268.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-21",
+        "average_ghi": 73.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-22",
+        "average_ghi": 110.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-23",
+        "average_ghi": 232.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-24",
+        "average_ghi": 235.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-25",
+        "average_ghi": 281.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-26",
+        "average_ghi": 169.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-27",
+        "average_ghi": 172.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-28",
+        "average_ghi": 113.08333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-29",
+        "average_ghi": 73.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-30",
+        "average_ghi": 160.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-03-31",
+        "average_ghi": 217.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-01",
+        "average_ghi": 283.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-02",
+        "average_ghi": 258.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-03",
+        "average_ghi": 111.83333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-04",
+        "average_ghi": 183.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-05",
+        "average_ghi": 200.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-06",
+        "average_ghi": 295.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-07",
+        "average_ghi": 294.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-08",
+        "average_ghi": 309.4583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-09",
+        "average_ghi": 307.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-10",
+        "average_ghi": 172.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-11",
+        "average_ghi": 209.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-12",
+        "average_ghi": 252.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-13",
+        "average_ghi": 139.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-14",
+        "average_ghi": 34.666666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-15",
+        "average_ghi": 69.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-16",
+        "average_ghi": 214.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-17",
+        "average_ghi": 293.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-18",
+        "average_ghi": 87.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-19",
+        "average_ghi": 93.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-20",
+        "average_ghi": 204.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-21",
+        "average_ghi": 226.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-22",
+        "average_ghi": 296.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-23",
+        "average_ghi": 284.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-24",
+        "average_ghi": 282.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-25",
+        "average_ghi": 314.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-26",
+        "average_ghi": 178.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-27",
+        "average_ghi": 53.416666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-28",
+        "average_ghi": 131.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-29",
+        "average_ghi": 62.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-04-30",
+        "average_ghi": 188.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-01",
+        "average_ghi": 255.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-02",
+        "average_ghi": 329.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-03",
+        "average_ghi": 143.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-04",
+        "average_ghi": 125.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-05",
+        "average_ghi": 296.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-06",
+        "average_ghi": 307.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-07",
+        "average_ghi": 337.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-08",
+        "average_ghi": 343.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-09",
+        "average_ghi": 339.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-10",
+        "average_ghi": 184.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-11",
+        "average_ghi": 249.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-12",
+        "average_ghi": 101.45833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-13",
+        "average_ghi": 252.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-14",
+        "average_ghi": 347.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-15",
+        "average_ghi": 346.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-16",
+        "average_ghi": 265.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-17",
+        "average_ghi": 336.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-18",
+        "average_ghi": 256.4166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-19",
+        "average_ghi": 192.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-20",
+        "average_ghi": 327.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-21",
+        "average_ghi": 339.6666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-22",
+        "average_ghi": 345.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-23",
+        "average_ghi": 341.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-24",
+        "average_ghi": 296.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-25",
+        "average_ghi": 341.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-26",
+        "average_ghi": 347.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-27",
+        "average_ghi": 348.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-28",
+        "average_ghi": 345.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-29",
+        "average_ghi": 220.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-30",
+        "average_ghi": 311.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-05-31",
+        "average_ghi": 253.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-01",
+        "average_ghi": 301.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-02",
+        "average_ghi": 346.8333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-03",
+        "average_ghi": 328.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-04",
+        "average_ghi": 334.2083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-05",
+        "average_ghi": 100.95833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-06",
+        "average_ghi": 201.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-07",
+        "average_ghi": 160.41666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-08",
+        "average_ghi": 196.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-09",
+        "average_ghi": 333.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-10",
+        "average_ghi": 318.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-11",
+        "average_ghi": 348.9166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-12",
+        "average_ghi": 283.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-13",
+        "average_ghi": 208.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-14",
+        "average_ghi": 314.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-15",
+        "average_ghi": 341.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-16",
+        "average_ghi": 335.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-17",
+        "average_ghi": 330.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-18",
+        "average_ghi": 281.0833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-19",
+        "average_ghi": 193.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-20",
+        "average_ghi": 310.2083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-21",
+        "average_ghi": 75.29166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-22",
+        "average_ghi": 211.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-23",
+        "average_ghi": 308.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-24",
+        "average_ghi": 333.6666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-25",
+        "average_ghi": 338.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-26",
+        "average_ghi": 302.4583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-27",
+        "average_ghi": 300.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-28",
+        "average_ghi": 322.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-29",
+        "average_ghi": 204.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-06-30",
+        "average_ghi": 299.25,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-01",
+        "average_ghi": 293.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-02",
+        "average_ghi": 300.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-03",
+        "average_ghi": 327.4166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-04",
+        "average_ghi": 309.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-05",
+        "average_ghi": 290.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-06",
+        "average_ghi": 279.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-07",
+        "average_ghi": 255.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-08",
+        "average_ghi": 346.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-09",
+        "average_ghi": 341.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-10",
+        "average_ghi": 207.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-11",
+        "average_ghi": 339.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-12",
+        "average_ghi": 215.33333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-13",
+        "average_ghi": 322.4166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-14",
+        "average_ghi": 169.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-15",
+        "average_ghi": 343.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-16",
+        "average_ghi": 288.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-17",
+        "average_ghi": 313.5416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-18",
+        "average_ghi": 206.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-19",
+        "average_ghi": 277.6666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-20",
+        "average_ghi": 318.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-21",
+        "average_ghi": 300.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-22",
+        "average_ghi": 323.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-23",
+        "average_ghi": 172.70833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-24",
+        "average_ghi": 316.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-25",
+        "average_ghi": 316.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-26",
+        "average_ghi": 306.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-27",
+        "average_ghi": 279.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-28",
+        "average_ghi": 263.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-29",
+        "average_ghi": 111.91666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-30",
+        "average_ghi": 224.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-07-31",
+        "average_ghi": 314.4166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-01",
+        "average_ghi": 88.83333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-02",
+        "average_ghi": 316.4583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-03",
+        "average_ghi": 279.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-04",
+        "average_ghi": 231.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-05",
+        "average_ghi": 249.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-06",
+        "average_ghi": 291.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-07",
+        "average_ghi": 202.20833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-08",
+        "average_ghi": 273.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-09",
+        "average_ghi": 306.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-10",
+        "average_ghi": 303.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-11",
+        "average_ghi": 112.375,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-12",
+        "average_ghi": 308.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-13",
+        "average_ghi": 303.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-14",
+        "average_ghi": 290.625,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-15",
+        "average_ghi": 78.04166666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-16",
+        "average_ghi": 262.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-17",
+        "average_ghi": 74.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-18",
+        "average_ghi": 139.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-19",
+        "average_ghi": 288.75,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-20",
+        "average_ghi": 228.83333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-21",
+        "average_ghi": 107.95833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-22",
+        "average_ghi": 300.1666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-23",
+        "average_ghi": 285.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-24",
+        "average_ghi": 297.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-25",
+        "average_ghi": 295.2916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-26",
+        "average_ghi": 209.04166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-27",
+        "average_ghi": 113.66666666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-28",
+        "average_ghi": 53.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-29",
+        "average_ghi": 54.791666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-30",
+        "average_ghi": 60.291666666666664,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-08-31",
+        "average_ghi": 161.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-01",
+        "average_ghi": 207.58333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-02",
+        "average_ghi": 145.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-03",
+        "average_ghi": 125.83333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-04",
+        "average_ghi": 250.79166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-05",
+        "average_ghi": 264.7083333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-06",
+        "average_ghi": 165.08333333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-07",
+        "average_ghi": 108.33333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-08",
+        "average_ghi": 268.3333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-09",
+        "average_ghi": 269.9583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-10",
+        "average_ghi": 257.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-11",
+        "average_ghi": 274.4583333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-12",
+        "average_ghi": 287.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-13",
+        "average_ghi": 277.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-14",
+        "average_ghi": 193.29166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-15",
+        "average_ghi": 253.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-16",
+        "average_ghi": 275.0416666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-17",
+        "average_ghi": 208.875,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-18",
+        "average_ghi": 232.95833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-19",
+        "average_ghi": 118.125,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-20",
+        "average_ghi": 243.45833333333334,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-21",
+        "average_ghi": 263.5833333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-22",
+        "average_ghi": 262.7916666666667,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-23",
+        "average_ghi": 258.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-24",
+        "average_ghi": 255.66666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-25",
+        "average_ghi": 242.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-26",
+        "average_ghi": 167.16666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-27",
+        "average_ghi": 101.33333333333333,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-28",
+        "average_ghi": 229.91666666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-29",
+        "average_ghi": 246.54166666666666,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-09-30",
+        "average_ghi": 247.5,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    },
+    {
+        "date": "2024-10-01",
+        "average_ghi": 0.0,
+        "latitude": 34.0837,
+        "longitude": 74.7973,
+        "altitude": 1587.0
+    }
+]
